@@ -3,8 +3,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=3000&pause=1000&color=36C2CE&center=true&vCenter=true&width=510&lines=Hi!%F0%9F%91%8B+I'm+Jaya Kumar Kathirvel+P+%F0%9F%98%89;an+avid+learner+who+enjoys+exploring+new+things%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>  <br><br><br></h1>
-<img align="right" src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=3000&pause=1000&color=36C2CE&center=true&vCenter=true&width=510&lines=Hi!%F0%9F%91%8B+I'm+Jaya+Kumar+Kathirvel+%F0%9F%98%89;an+avid+learner+who+enjoys+exploring+new+things%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>  <br><br><br></h1>
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aiscribbles.com%2Fimg%2F35040%2Fprofessional-cartoon-businessman-portrait%2F&psig=AOvVaw0aRxZ8EIQL-3IEm_9Qo4qO&ust=1736782579541000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiE9cbB8IoDFQAAAAAdAAAAABAE">
 
 
 - 🔭 I’m currently learning **Machine Learning** 
@@ -24,7 +24,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/Jayakumark37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srivathsan2305" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Jayakumark37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivathsanp" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/jaya-kumar-kathirvel-586723184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"] target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivathsanp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Jayakumark37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srivathsanp" height="30" width="40" /></a>
 </p>
 
@@ -46,4 +46,4 @@
 
 <h2 align="center">📈</h2>
 
-[![Jayakumark37's Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Jayakumark37&custom_title=Jayakumark37%20P's%20Contribution%20🚀&color=ffffff&line=00ff00&theme=high-contrast&point=fff0ff&area=true&hide_border=true)](https://github.com/Jayakumark37)
+[![Jayakumark37's Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Jayakumark37&custom_title=Jayakumar37%20'Ks%20Contribution%20🚀&color=ffffff&line=00ff00&theme=high-contrast&point=fff0ff&area=true&hide_border=true)](https://github.com/Jayakumark37)
