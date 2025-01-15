@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 My Portfolio **https://personal-portfolio-gray-six.vercel.app/*
+- 💬 My Portfolio 
 
 - 📫 How to reach me **[https://linktr.ee/JayaKumarKathirvel](https://www.linkedin.com/in/jaya-kumar-kathirvel-586723184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
