@@ -53,6 +53,6 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Jayakumark37/Jayakumark37"><img src="https://drive.google.com/file/d/16f3cjdZ14F1F9XyPPW9hungVs74-Eyaw/view?usp=drivesdk" width="100px;" alt=""/><br /><sub><b>Jaya Kumar Kathirvel</b></sub></a><br /><a href="https://github.com/Jayakumark37/Jayakumark37" title="github"><img src="https://img.shields.io/github/followers/Jayakumark37?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="LinkedIn"><img src="https://www.linkedin.com/in/jaya-kumar-kathirvel-586723184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a></td>
+    <td align="center"><a href="https://github.com/Jayakumark37/Jayakumark37"><img src="https://github.com/Jayakumark37/Chicago-Crime-Analyzer-Using-Power-BI/blob/main/Chicago%20Crime%20Analyzer%20-%201.png" width="100px;" alt=""/><br /><sub><b>Jaya Kumar Kathirvel</b></sub></a><br /><a href="https://github.com/Jayakumark37/Jayakumark37" title="github"><img src="https://img.shields.io/github/followers/Jayakumark37?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="LinkedIn"><img src="https://www.linkedin.com/in/jaya-kumar-kathirvel-586723184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a></td>
    <tr>
   <table>
