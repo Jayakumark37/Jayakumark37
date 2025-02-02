@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **Machine Learning** 
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://github.com/Jayakumark37/Chicago-Crime-Analyzer-Using-Power-BI
 
 - 💬 My Portfolio 
 
