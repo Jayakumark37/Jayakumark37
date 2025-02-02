@@ -23,9 +23,9 @@
 <br><br>
 <h2 align="center">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/Jayakumark37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srivathsan2305" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/jaya-kumar-kathirvel-586723184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"] target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivathsanp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Jayakumark37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srivathsanp" height="30" width="40" /></a>
+<a href="https://twitter.com/Jayakumark37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jayakumark" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/jaya-kumar-kathirvel-586723184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"] target="blank"><img align="center" src="https://raw.githubusercontent.com/Jayakumark/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jayakumark" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Jayakumark37" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jayakumark/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jayakumark" height="30" width="40" /></a>
 </p>
 
 
@@ -53,6 +53,6 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Jayakumark37/Jayakumark37"><img src="https://github.com/Jayakumark37/Chicago-Crime-Analyzer-Using-Power-BI/blob/main/Chicago%20Crime%20Analyzer%20-%201.png" width="100px;" alt=""/><br /><sub><b>Jaya Kumar Kathirvel</b></sub></a><br /><a href="https://github.com/Jayakumark37/Jayakumark37" title="github"><img src="https://img.shields.io/github/followers/Jayakumark37?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="LinkedIn"><img src="https://www.linkedin.com/in/jaya-kumar-kathirvel-586723184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a></td>
+    <td align="center"><a href="https://github.com/Jayakumark37/Jayakumark37"><img src="https://github.com/Jayakumark37/Chicago-Crime-Analyzer-Using-Power-BI/blob/main/download.png" width="100px;" alt=""/><br /><sub><b>Jaya Kumar Kathirvel</b></sub></a><br /><a href="https://github.com/Jayakumark37/Jayakumark37" title="github"><img src="https://img.shields.io/github/followers/Jayakumark37?style=social"></a>
    <tr>
   <table>
