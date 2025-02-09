@@ -9,7 +9,7 @@
 <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aiscribbles.com%2Fimg%2F35040%2Fprofessional-cartoon-businessman-portrait%2F&psig=AOvVaw0aRxZ8EIQL-3IEm_9Qo4qO&ust=1736782579541000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiE9cbB8IoDFQAAAAAdAAAAABAE">
 
 
-- 🔭 I’m currently learning **Machine Learning** 
+- 🔭 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at https://github.com/Jayakumark37/Chicago-Crime-Analyzer-Using-Power-BI ,https://github.com/Jayakumark37/Book-Scape-Explorer.git
 
