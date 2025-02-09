@@ -4,7 +4,7 @@
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=3000&pause=1000&color=36C2CE&center=true&vCenter=true&width=510&lines=Hi!%F0%9F%91%8B+I'm+Jaya+Kumar+Kathirvel+%F0%9F%98%89;an+avid+learner+who+enjoys+exploring+new+things%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>  <br><br><br></h1>
-🤖🧠💡 Teaching machines to think, so humans can do more 🤖🧠💡
+💡🧠🤖 Teaching machines to think, so humans can do more 🤖🧠💡
 
 <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aiscribbles.com%2Fimg%2F35040%2Fprofessional-cartoon-businessman-portrait%2F&psig=AOvVaw0aRxZ8EIQL-3IEm_9Qo4qO&ust=1736782579541000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiE9cbB8IoDFQAAAAAdAAAAABAE">
 
