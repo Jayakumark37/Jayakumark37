@@ -43,7 +43,7 @@
 
 <h2 align="center">Languages and Tools Used:</h2>
 <p align="left"> 
-  <a href="https://www.google.com/search?q=machine+learning" target="_blank" rel="noreferrer">Machine Learning</a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machinelearning/machinelearning-original-wordmark.svg" alt="Machine Learning" width="40" height="40"/>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
