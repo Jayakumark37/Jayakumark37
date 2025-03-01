@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at https://github.com/Jayakumark37/Chicago-Crime-Analyzer-Using-Power-BI ,https://github.com/Jayakumark37/Book-Scape-Explorer.git
+- 👨‍💻 All of my projects are available at [https://github.com/Jayakumark37](https://github.com/Jayakumark37?tab=repositories)
 
 - 💬 My Portfolio 
 
